@@ -1,0 +1,15 @@
+# Eclipse files
+.metadata/
+.settings/
+.classpath
+.project
+Servers/
+
+# Java compiled files
+*.class
+target/
+
+# Private database configuration
+.env
+.env.*
+!.env.example
